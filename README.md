@@ -1,4 +1,4 @@
-Smart RecyclerViewer
+Smart RecyclerView Adapter
 ==============
 
 This sample contains the source code from the SmartRecyclerView implementation that simplifies
